@@ -1,0 +1,7 @@
+C:\Users\whisper\AppData\Local\Temporary Projects\Convert-XML-To-Csv\bin\Debug\Convert-XML-To-Csv.exe.config
+E:\Education\Programming\PowerShell\Script\Generate Master File of Patches from MBSA\V4\Convert-XML-To-Csv\Convert-XML-To-Csv\bin\Debug\Convert-XML-To-Csv.exe.config
+E:\Education\Programming\PowerShell\Script\Generate Master File of Patches from MBSA\V4\Convert-XML-To-Csv\Convert-XML-To-Csv\bin\Debug\Convert-XML-To-Csv.exe
+E:\Education\Programming\PowerShell\Script\Generate Master File of Patches from MBSA\V4\Convert-XML-To-Csv\Convert-XML-To-Csv\bin\Debug\Convert-XML-To-Csv.pdb
+E:\Education\Programming\PowerShell\Script\Generate Master File of Patches from MBSA\V4\Convert-XML-To-Csv\Convert-XML-To-Csv\obj\Debug\Convert-XML-To-Csv.csprojResolveAssemblyReference.cache
+E:\Education\Programming\PowerShell\Script\Generate Master File of Patches from MBSA\V4\Convert-XML-To-Csv\Convert-XML-To-Csv\obj\Debug\Convert-XML-To-Csv.exe
+E:\Education\Programming\PowerShell\Script\Generate Master File of Patches from MBSA\V4\Convert-XML-To-Csv\Convert-XML-To-Csv\obj\Debug\Convert-XML-To-Csv.pdb
